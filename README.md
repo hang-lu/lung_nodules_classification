@@ -2,8 +2,8 @@
 
 ### Introduction
 This is an official pytorch implementation for the paper "Dual Convolutional Neural Network for Lung Nodule Classification".
-![](DCNN.png)
 
+<img src="DCNN.png" width = "300" height = "200" alt="图片名称" align=center />
 ### Requirements
 - opencv-python 
 - numpy
